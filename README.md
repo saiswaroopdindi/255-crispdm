@@ -33,3 +33,11 @@ Articles and video walkthrough scripts are drafts; no videos have been recorded.
 - Fayyad, Piatetsky-Shapiro, and Smyth, [The KDD Process for Extracting Useful Knowledge](https://doi.org/10.1145/240455.240464)
 
 The local run used the versions listed in [`requirements-lock.txt`](./requirements-lock.txt). Each notebook pins these versions and checks the downloaded UCI archive and data-file hashes before analysis. Python 3.14.5 was used locally; a different Colab Python runtime may require compatible adjustments.
+
+Google Drive link:  https://drive.google.com/drive/folders/1XY84Lfsxlr5hc01JHO6iEOr42tSQWjFz?usp=sharing
+
+Link to medium articles:
+https://medium.com/@saiswaroopdindi1/forecasting-hourly-bike-rental-demand-a-crisp-dm-case-study-95fef1f46558
+https://medium.com/@saiswaroopdindi1/predicting-wine-quality-from-laboratory-measures-a-semma-analysis-dd9e5b62e000
+https://medium.com/@saiswaroopdindi1/exploring-wholesale-spending-profiles-with-the-kdd-process-ae0f7c6a15de
+
